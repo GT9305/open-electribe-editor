@@ -1,6 +1,6 @@
 = Source Code =
 
-The source code has been moved to GitHub.  If you are interested in helping develop, please follow follow the project on GitHub, and see the cloning instructions below.
+The source code has been moved to github.  If you are interested in helping develop, please follow follow the project on github, and see the cloning instructions below.
 
 == Github Repository: ==
 
