@@ -2,7 +2,7 @@
 
 The source code has been moved to GitHub.  If you are interested in helping develop, please follow follow the project on GitHub, and see the cloning instructions below.
 
-== GitHub Repository: ==
+== Github Repository: ==
 
 Web View: https://github.com/skratchdot/open-electribe-editor
 
