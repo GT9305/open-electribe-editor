@@ -3,13 +3,10 @@
    <description name="Open Electribe Editor Update Site" url="http:://open-electribe-editor.googlecode.com/svn/_electribe_/updates/">
       This site will get you the latest updates to the &quot;Open Electribe Editor&quot; program.  Please visit http://www.skratchdot.com/projects/open-electribe-editor/ for more info.
    </description>
-   <feature url="features/com.skratchdot.electribe.features.defaultfiles_1.0.0.qualifier.jar" id="com.skratchdot.electribe.features.defaultfiles" version="1.0.0.qualifier">
+   <feature url="features/com.skratchdot.electribe.features.main_1.0.2.201106261243.jar" id="com.skratchdot.electribe.features.main" version="1.0.2.201106261243">
       <category name="open_electribe_editor"/>
    </feature>
-   <feature url="features/com.skratchdot.electribe.features.main_1.0.0.201106261219.jar" id="com.skratchdot.electribe.features.main" version="1.0.0.201106261219">
-      <category name="open_electribe_editor"/>
-   </feature>
-   <feature url="features/com.skratchdot.electribe.features.main.os_1.0.0.201106261219.jar" id="com.skratchdot.electribe.features.main.os" version="1.0.0.201106261219">
+   <feature url="features/com.skratchdot.electribe.features.main.os_1.0.2.201106261243.jar" id="com.skratchdot.electribe.features.main.os" version="1.0.2.201106261243">
       <category name="open_electribe_editor"/>
    </feature>
    <category-def name="open_electribe_editor" label="Open Electribe Editor">
